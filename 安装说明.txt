@@ -1,0 +1,5 @@
+1. 修改requirements.txt
+需要更新regex版本，把regex==2017.4.5修改为regex==2022.3.2
+
+2. 安装包命令：
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
